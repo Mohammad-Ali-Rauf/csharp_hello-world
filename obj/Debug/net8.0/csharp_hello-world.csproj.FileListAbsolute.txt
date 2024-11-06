@@ -1,0 +1,14 @@
+/home/ali/Documents/csharp_hello-world/bin/Debug/net8.0/csharp_hello-world
+/home/ali/Documents/csharp_hello-world/bin/Debug/net8.0/csharp_hello-world.deps.json
+/home/ali/Documents/csharp_hello-world/bin/Debug/net8.0/csharp_hello-world.runtimeconfig.json
+/home/ali/Documents/csharp_hello-world/bin/Debug/net8.0/csharp_hello-world.dll
+/home/ali/Documents/csharp_hello-world/bin/Debug/net8.0/csharp_hello-world.pdb
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.AssemblyInfoInputs.cache
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.AssemblyInfo.cs
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.csproj.CoreCompileInputs.cache
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.dll
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/refint/csharp_hello-world.dll
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.pdb
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/csharp_hello-world.genruntimeconfig.cache
+/home/ali/Documents/csharp_hello-world/obj/Debug/net8.0/ref/csharp_hello-world.dll
